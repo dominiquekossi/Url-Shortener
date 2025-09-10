@@ -49,14 +49,13 @@ Program.cs # Minimal API configuration
 - **POST** `/api/shortener`  
 - **Request Body**
 ```json
-{
+```´{
   "url": "https://example.com/long-url"
 }
 Response
 
 json
-Copiar código
-"https://localhost:5001/api/AbCd12"
+ "https://localhost:5001/api/AbCd12"
 cURL Example
 
 bash
