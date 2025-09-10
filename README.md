@@ -30,9 +30,7 @@ Designed for lightweight and fast deployment, following **clean architecture pri
 ├── MigrationExtensions.cs # Applies migrations on startup
 Program.cs # Minimal API configuration
 
-yaml
-Copiar código
-
+ 
 ---
 
 ## 📌 Features
@@ -77,8 +75,7 @@ Responses
 
 404 Not Found → if code does not exist
 
-cURL Example
-
+ 
 bash
 Copiar código
 curl -i "https://localhost:5001/api/AbCd12"
